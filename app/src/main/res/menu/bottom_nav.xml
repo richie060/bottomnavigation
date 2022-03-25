@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mihome"
+        android:title="Home"
+        android:icon="@drawable/ic_home"/>
+    <item
+        android:id="@+id/mimap"
+        android:title="map"
+        android:icon="@drawable/ic_map"
+        />
+    <item
+        android:id="@+id/miaccount"
+        android:title="Account"
+        android:icon="@drawable/ic_account"/>
+    <item
+        android:id="@+id/miprogress"
+        android:title="Offer progress"
+        android:icon="@drawable/ic_progress"/>
+
+
+</menu>
